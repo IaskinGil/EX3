@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EX3</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_task">Create Task</string>
+    <string name="title_activity_task_list_base_adapter">TaskListBaseAdapter</string>
+	<string name="new_task_button">Add Task</string>
+	<string name="done_button">Done</string>
+	<string name="edit_message">Task Name</string>
+	<string name="create_button">Create</string>
+</resources>
